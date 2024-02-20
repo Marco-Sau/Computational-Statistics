@@ -43,4 +43,4 @@ Each notebook is self-contained and includes theoretical background, practical e
 To get started with these materials, clone the repository using the following command:
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/Marco-Sau/Computational-Statistics.git)https://github.com/Marco-Sau/Computational-Statistics.git>
