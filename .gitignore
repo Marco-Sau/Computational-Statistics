@@ -206,7 +206,7 @@ pyrightconfig.json
 # End of https://www.toptal.com/developers/gitignore/api/macos,python
 .DS_Store
 
-*.RData
-*.Rhistory
+.RData
+.Rhistory
 Icon
 output.txt
